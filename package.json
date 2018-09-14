@@ -1,0 +1,13 @@
+{
+  "name": "zaker",
+  "scripts": {
+    "dev": "PORT=3010 nuxt"
+  },
+  "dependencies": {
+    "nuxt": "^1.4.2"
+  },
+  "devDependencies": {
+    "less": "^3.8.1",
+    "less-loader": "^4.1.0"
+  }
+}
